@@ -13,7 +13,7 @@ pipeline {
                 branch 'master'
             }
             steps {
-                app = docker.build("p-rb/train-schedule")
+                app = docker.build("plearn98/train-schedule")
                 app.inside {
                 sh 'echo $(curl localhost:8080)'
                 }
