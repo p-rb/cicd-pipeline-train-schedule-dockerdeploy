@@ -1,16 +1,16 @@
 {
 	"trains": [
 		{
-			"name": "Hogwarts Express",
+			"name": "Rajdhani Express",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "Delhi",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
 				},
 				{
-					"station": "Pine",
+					"station": "Pune",
 					"status": "ON-TIME",
 					"arrival": "1:00pm",
 					"departure": "1:10pm"
@@ -18,16 +18,16 @@
 			]
 		},
 		{
-			"name": "Flying Scotsman",
+			"name": "Taj Expressn",
 			"stops": [
 				{
-					"station": "Pine",
+					"station": "New Delhi",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
 				},
 				{
-					"station": "Sycamore",
+					"station": "Gwalior",
 					"status": "DELAYED",
 					"arrival": "1:00pm",
 					"departure": "1:10pm",
@@ -37,16 +37,16 @@
 			]
 		},
 		{
-			"name": "Orient Express",
+			"name": "Ara Express",
 			"stops": [
 				{
-					"station": "Sycamore",
+					"station": "Ahmd",
 					"status": "ON-TIME",
 					"arrival": "12:00pm",
 					"departure": "12:10pm"
 				},
 				{
-					"station": "Cypress",
+					"station": "Unh",
 					"status": "DELAYED",
 					"arrival": "1:00pm",
 					"departure": "1:10pm",
